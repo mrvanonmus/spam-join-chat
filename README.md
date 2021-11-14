@@ -16,8 +16,6 @@ pip install pyfiglet
 pkg install git
 pkg install python
 pip install AminoLap 
-pip install colored
-pip install pyfiglet
 ```
 # [التثبيت]
 ```
