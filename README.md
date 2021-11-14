@@ -8,8 +8,6 @@ Spam log in and out of chat
 apt-get install git
 apt-get install python
 pip install AminoLap
-pip install colored
-pip install pyfiglet
 ```
 # (termux)
 ```
